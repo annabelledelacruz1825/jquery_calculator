@@ -1,4 +1,4 @@
-# jquery_calculator
+
 # jQuery Calculator
 
 ## File
